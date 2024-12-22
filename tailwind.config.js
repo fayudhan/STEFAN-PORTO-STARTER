@@ -10,7 +10,7 @@ module.exports = {
       },
 
       padding: {
-        "px-120": "120px", // Padding kanan kiri 120px
+        "px-120": "120px",
       },
     },
   },
